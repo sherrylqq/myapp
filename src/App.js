@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+          <h1>Welcome</h1>
         <p>
           This is just a sample React app that we're going to deploy
         </p>
